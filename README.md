@@ -1,7 +1,7 @@
 # HandBook
-Recollect your git and npm commands.
+Recollect your <img src="https://img.shields.io/badge/git----blue.svg?style=flat-square"> and <img src="https://img.shields.io/badge/npm--yellowgreen.svg?style=flat-square"> commands.
 <br>
-##<img src="https://img.shields.io/badge/git----blue.svg?style=flat-square"> :
+<img src="https://img.shields.io/badge/git----blue.svg?style=flat-square"> :
 - <code> $ git --version </code>                                           //To check version of git
 
 - <code> $ git config --global user.name "Your Name"</code>              //To set Name(NOT USERNAME)
