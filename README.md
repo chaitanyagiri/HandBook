@@ -22,7 +22,7 @@ Recollect your git and npm commands.
 - <code> $ git config --global user.username <USerNamE></code> //To set your Username make sure it is same as your github username
 
 - <code> $ git remote add origin <URLFROMGITHUB></code>   //Your local repository now knows where your remote one named 'origin' lives 
-on GitHub's servers.                                                         //
+on GitHub's servers.                                                         
 
 - <code> $ git clone <URLFROMGITHUB></code> //Clone any repository from github to your local make sure you are not in another git repo 
 folder         
@@ -36,8 +36,10 @@ folder
 - <code> $ git branch <BRANCHNAME></code> //Create a branch
 
 - <code> $ git checkout <BRANCHNAME></code> //Go to that branch
-- <code> $ git add <NameOfAnyNewFileAdded></code>
-- <code>$ git commit -m "<commit message>"</code>
+
+- <code> $ git add <NameOfAnyNewFileAdded> </code>
+// Add and commit to your branch in local
+- <code>$ git commit -m "<commit message>" </code>
  // Add and commit to your branch in local
 
 - <code> $ git push origin <BRANCHNAME></code> //Push your branch to github repository
