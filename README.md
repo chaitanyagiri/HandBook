@@ -36,10 +36,9 @@ folder
 - <code> $ git branch <BRANCHNAME></code> //Create a branch
 
 - <code> $ git checkout <BRANCHNAME><code> //Go to that branch
-- <code> 
-$ git add <NameOfAnyNewFileAdded>
-$ git commit -m "<commit message>"
-</code> // Add and commit to your branch in local
+- <code> $ git add <NameOfAnyNewFileAdded></code>
+- <code>$ git commit -m "<commit message>"</code>
+ // Add and commit to your branch in local
 
 - <code> $ git push origin <BRANCHNAME></code> //Push your branch to github repository
 
